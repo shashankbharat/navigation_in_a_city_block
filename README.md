@@ -57,16 +57,16 @@ The project simulates navigation in a city block in daytime. It has been develop
 
 1. Starting point- a sqaure city block with buildings, a tunnel, sky, park and lampposts surrounding the road
 
-![Road](images/1_Road_Start.jpg "Starting view- facing the tunnel")
+![Road](images/1_Road_Start.JPG "Starting view- facing the tunnel")
 
 2. Facing the park
 
-![Park](images/2_Park.jpg "Looking towards the park")
+![Park](images/2_Park.JPG "Looking towards the park")
 
 3. View from inside the tunnel
 
-![Tunnel](images/3_Inside_Tunnel.jpg "Inside the tunnel")
+![Tunnel](images/3_Inside_Tunnel.JPG "Inside the tunnel")
 
 4. A stone pyramid in the park
 
-![Pyramid](images/4_Pyramid.jpg "Pyramid structure in the park")
+![Pyramid](images/4_Pyramid.JPG "Pyramid structure in the park")
